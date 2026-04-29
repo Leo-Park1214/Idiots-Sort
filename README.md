@@ -386,38 +386,6 @@ stackoverflow_copy_sort
 
 ---
 
-# FAQ
-
-## Is this a real sorting library?
-
-No.
-
-## Is this useful?
-
-Also no.
-
-## Is this funny?
-
-Hopefully.
-
-## Can I use this in production?
-
-Only if production has personally wronged you.
-
-## Why did my file disappear?
-
-You probably ran `menhera_sort`.
-
-## Why is my list empty?
-
-You probably ran `alpha_male_sort`.
-
-## Why are there random floats in my integer list?
-
-You probably ran `hallucination_sort`.
-
----
-
 # License
 
 MIT License.
